@@ -1,4 +1,4 @@
-# Paper-Rep
+# Paper-Reproduction
 A reproduction of a paper as part of the requirements for Hackbio's bioinformatics fellowship
 
 
@@ -123,6 +123,12 @@ Get summary for all samples run
 
 
 ariba summary out /path/to/all/resistance/reports 
+
+
+   
+			
+			
+
 
 
 

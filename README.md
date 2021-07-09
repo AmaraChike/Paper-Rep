@@ -70,7 +70,7 @@ bgzip results.vcf > results.vcf.gz
 
 After zipping the files, they are indexed
 
-tabix -p results.vcf.gz 
+tabix -p vcf results.vcf.gz 
 
 
 merging with bcftools
